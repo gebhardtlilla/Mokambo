@@ -89,3 +89,17 @@
     text-decoration: none;
     color: white;
   }
+
+  .rolunk>p {
+    text-indent: 12px;
+  }
+
+  .elerhetoseg>table, th, td {
+    border:1px solid black;
+  }
+  .elerhetoseg>table {
+    width: 100%;
+    text-align: center;
+ 
+  }
+  
