@@ -100,6 +100,20 @@
   .elerhetoseg>table {
     width: 100%;
     text-align: center;
- 
+    padding: 20px;
+    border-collapse: collapse;
   }
+
+  .elerhetoseg {
+   
+  }
+
+  .logok {
+    float: left;
+    width: 150px;
+    align-items: center;
+    
+
+  }
+
   
